@@ -11,3 +11,6 @@
 function chunk(array, size) {}
 
 module.exports = chunk;
+
+// To test
+//jest chunk/test.js --watch
